@@ -1,5 +1,4 @@
 # DH-Desafio 1
-<span style="color:red"> <em>ACTUALIZACIÓN A SEP 9</em> </span>
 
 **Cleaning**  hace toda la limpieza de datos, ordena columnas, mejora la informacion de habitaciones usando regex de `descripcion`, y agrega columnas con dummy que indica si existen o no las principales amenities. Devuelve un archivo *properatti_clean&complete.csv* con el 
 
